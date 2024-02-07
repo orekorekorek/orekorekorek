@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__I'm Kirill__ - backend developer and student of Russian university of transport. I'm interseted in development and computer science.
+__I'm Kirill__ - Ruby Backend Engineer.
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,bootstrap,docker,git,gitlab,linux,cpp" />
