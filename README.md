@@ -1,10 +1,12 @@
-### Hi there 👋
 
-__I'm Kirill__ - Ruby Backend Engineer.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,bootstrap,docker,git,gitlab,linux,cpp" />
-</a>
+<p align="center">Backend Engineer.</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,elasticsearch,rabbitmq,docker,gitlab,cpp" />
+  </a>
+</p>
 
 <!--
 **orekorekorek/orekorekorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
